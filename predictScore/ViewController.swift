@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var hoursStudied: UILabel!
     @IBOutlet weak var previousScore: UITextField!
     
-    
+    //drtdtr
     @IBOutlet weak var questionPaperStepper: UIStepper!
     @IBOutlet weak var hoursSleepStepper: UIStepper!
     @IBOutlet weak var hoursStudiedStepper: UIStepper!
